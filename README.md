@@ -581,7 +581,7 @@ Para mais detalhes técnicos, veja:
 ## 📄 Licença
 
 Este projeto é privado e proprietário. Todos os direitos reservados.
-Liberado acesso na escola de automação para os alunos comercializarem.
+
 ---
 
 ## 👥 Autores
