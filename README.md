@@ -597,3 +597,8 @@ Liberado acesso na escola de automação para os alunos comercializarem.
 Feito com ❤️ para equipes de vendas mais produtivas
 
 </div>
+
+
+<!-- deploy trigger -->
+
+<!-- deploy nis-empreendedor -->
